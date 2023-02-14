@@ -1,0 +1,11 @@
+{
+  "name": "Yavin IV",
+  "rotationPeriod": 24,
+  "orbitalPeriod": 4818,
+  "diameter": 10200,
+  "climate": "temperate, tropical",
+  "gravity": "1 standard",
+  "terrain": "jungle, rainforests",
+  "surfaceWater": 8,
+  "population": 1000
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Alderaan",
+  "rotationPeriod": 24,
+  "orbitalPeriod": 364,
+  "diameter": 12500,
+  "climate": "temperate",
+  "gravity": "1 standard",
+  "terrain": "grasslands, mountains",
+  "surfaceWater": 40,
+  "population": 2000000000
+}
