@@ -10,4 +10,4 @@
 - Junit5
 - Rest Assured
 - Cucumber
-- Test Containers
+- Test Containers (Necessário docker) 
